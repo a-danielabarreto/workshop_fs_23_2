@@ -34,3 +34,15 @@ Instruções:
 Deve-se chegar à seguinte tabela:
 
 ![image](https://github.com/a-danielabarreto/workshop_fs_23_2/assets/129341716/08983255-b4d8-4213-9a2e-02a490052307)
+
+## Desafio dia 03:
+
+Proposta de Atividade:
+
+Entender os dados fornecidos, para isso, explore-os, use as funções vistas, com um único objetivo de compreender seus dados, e assim, extrair o maior valor possível deles. Sinta-se à vontade para ir comentando seus passos e todo o seu entendimento. Por fim, você deve:
+
+- Antes de qualquer agrupamento, calcule quais os valores mínimos, máximos e médios de pontuação de cada matéria (matemática, leitura e escrita), deixe claro cada valor comentado em markdown;
+- Agrupe o banco de dados a partir da raça/etnia dos alunos, e plote um gráfico com a nota média em Matemática para cada grupo disponível;
+- Agrupe o banco de dados a partir do Nível de Escolaridade dos pais, e plote um gráfico com a nota média em Escrita para cada grupo disponível;
+- Agrupe o banco de dados a partir da coluna referente à partificipação em um curso preparatório para os testes, e plote um gráfico com a nota média em Leitura para cada grupo disponível.
+
