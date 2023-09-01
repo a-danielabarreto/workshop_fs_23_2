@@ -1,7 +1,24 @@
-# workshop_fs_23_2
+<div align="center">
+   
+![](https://media.licdn.com/dms/image/D4E0BAQEMmZFfkBHZKw/company-logo_200_200/0/1682639476424?e=2147483647&v=beta&t=dyZVNAtQyAOa3AnD9Esg1TSPeZt01nNBsSGDTJuywCY)
+
+</div>
+
+<div align="center">
+   
+# Workshop Fábrica de Software 2023.2
+
+</div>
+
+<div align="center">
+
 Repositório destinado aos projetos da semana de workshop da fábrica de software 2023.2
 
-## Desafio dia 01:
+Seguem desafios propostos:
+
+</div>
+
+## 🎯 Desafio dia 01:
 
 - Escolha um tema que você se interesse para pesquisar sobre (Exemplo de tema:
 adoção de animais);
@@ -14,7 +31,7 @@ a pandemia?);
 - Una as respostas obtidas em um arquivo .doc, ou .pdf e suba no seu repositório no
 GitHub.
 
-## Desafio dia 02:
+## 🎯 Desafio dia 02:
 
 Habilidades de Excel para Análise e Visualização de Dados
 
@@ -35,9 +52,9 @@ Deve-se chegar à seguinte tabela:
 
 ![image](https://github.com/a-danielabarreto/workshop_fs_23_2/assets/129341716/08983255-b4d8-4213-9a2e-02a490052307)
 
-## Desafio dia 03:
+## 🎯 Desafio dia 03:
 
-Proposta de Atividade:
+Proposta de Atividade (Google Colab):
 
 Entender os dados fornecidos, para isso, explore-os, use as funções vistas, com um único objetivo de compreender seus dados, e assim, extrair o maior valor possível deles. Sinta-se à vontade para ir comentando seus passos e todo o seu entendimento. Por fim, você deve:
 
@@ -46,7 +63,9 @@ Entender os dados fornecidos, para isso, explore-os, use as funções vistas, co
 - Agrupe o banco de dados a partir do Nível de Escolaridade dos pais, e plote um gráfico com a nota média em Escrita para cada grupo disponível;
 - Agrupe o banco de dados a partir da coluna referente à partificipação em um curso preparatório para os testes, e plote um gráfico com a nota média em Leitura para cada grupo disponível.
 
-## Desafio dia 04:
+## 🎯 Desafio dia 04:
+
+MySQL
 
 1) Crie 3 tabelas com 3-5 colunas, utilizando no mínimo 3 tipos diferentes de variáveis no total.
 2) Adicione uma nova coluna em cada tabela.
