@@ -46,3 +46,14 @@ Entender os dados fornecidos, para isso, explore-os, use as funções vistas, co
 - Agrupe o banco de dados a partir do Nível de Escolaridade dos pais, e plote um gráfico com a nota média em Escrita para cada grupo disponível;
 - Agrupe o banco de dados a partir da coluna referente à partificipação em um curso preparatório para os testes, e plote um gráfico com a nota média em Leitura para cada grupo disponível.
 
+## Desafio dia 04:
+
+1) Crie 3 tabelas com 3-5 colunas, utilizando no mínimo 3 tipos diferentes de variáveis no total.
+2) Adicione uma nova coluna em cada tabela.
+3) Insira dados nas colunas de cada tabela (mínimo 3 registros em cada tabela).
+4) Remova uma coluna de cada tabela.
+5) Mostre o conteúdo de cada tabela. 
+6) Mostre o conteúdo de cada tabela utilizando alguma condição específica.
+7) Baixe um arquivo CSV do site https://www.kaggle.com/eimporte-oparaoMySQL. Em seguida, mostre o conteúdo da tabela.
+Obs: É necessário que todo conteúdo das tabelas tenha sentido lógico.
+
