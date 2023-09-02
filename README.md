@@ -76,3 +76,15 @@ MySQL
 7) Baixe um arquivo CSV do site https://www.kaggle.com/eimporte-oparaoMySQL. Em seguida, mostre o conteúdo da tabela.
 Obs: É necessário que todo conteúdo das tabelas tenha sentido lógico.
 
+## 🎯 Desafio dia 05:
+
+Power BI
+
+- Escolha um Dataset no Kaggle.
+- Procure possíveis problemas apresentados pelo dataset.
+- Faça um Dashboard no Power Bi com no mínimo 4 tipos de gráficos para “Solucionar” o problema.
+- Apresente as soluções encontradas com sua análise.
+
+
+
+
